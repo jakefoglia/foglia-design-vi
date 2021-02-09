@@ -1,6 +1,7 @@
 # Foglia Design VI
 
-This is a repository for ECE 322 - Design VI <br />
+This is a repository for ECE 322 - Design VI <br /> <br />
+
 The work contained in this repository is primarily tailored to use with a Raspberry PI, or other Linux machines. <br />
 There is also work involving remote connection from my Windows 10 laptop to the Raspberry PI via Secure Shell (SSH) and a remote desktop service (VNC Server).  <br />
 
