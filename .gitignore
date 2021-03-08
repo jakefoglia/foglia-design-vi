@@ -4,3 +4,6 @@ Lab4/stevens/stevens/settings.py
 Lab4/myraspi/myraspi/settings.py
 Lab4/myraspi/myapp/views.py
 Lab4/myraspi/controller.py
+Lab4/myraspi/__pycache__/*.*
+Lab4/stevens/__pycache__/*.*
+
