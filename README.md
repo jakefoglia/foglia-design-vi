@@ -34,3 +34,8 @@ Lab 5 was completed entirely. I got the crossbar.io site up and running fine. Ad
 # Lab 6
 
 The Lab6 directory contains just screenshots. All parts of the lab were completed successfully. Node-RED was working and I could access the 'Hello World' page from another laptop on my network. Pystache was also working, and it correctly updated every time I refreshed the page. I set up a Particle Cloud Account and was able to communicate between the mobile app and the pi. 
+
+
+# Lab 7
+
+Lab 7 was completed in its entirety. Thingspeak was working fine. I choose not to save the API key on disk for future use because I didn't want it in the GitHub repo anyway. For the Google Cloud Platform components, everything was working. The Google Sheets document was being updated. One thing I noticed is that my JSON API key didn't begin with 'rpidata-", but rather 'main-' which seemed strange considering I named the project rpidata. Nonetheless, the API key worked properly. 
