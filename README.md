@@ -43,3 +43,7 @@ Lab 7 was completed in its entirety. Thingspeak was working fine. I choose not t
 # Lab 8
 
 Part A of Lab 8 went smoothly. The figures took a while to appear sometimes, since they were being displayed through SSH and Xming. I've used matplotlib in the past so much of the package's functionality was familiar to me. For part B, I realized that I needed more data from last weeks lab. So I reran the scripts from the end of Lab 7 for about 2.5 hours before terminating them. This provided me with more than enough data for the figures in Lab 8 part B. 
+
+# Lab 9
+
+I successfully generated the intrusion detection uml file using pyang and I generated the figure using PlantUML. I was able to display the figure using both gimp and pinta.  For part B, I believe everything worked properly. However, I did get a lot of warning messages in the console which said 'Depreciated in NumPy 1.20'. Perhaps I installed too new of a version of one of the components.  
