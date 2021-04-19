@@ -40,10 +40,17 @@ The Lab6 directory contains just screenshots. All parts of the lab were complete
 
 Lab 7 was completed in its entirety. Thingspeak was working fine. I choose not to save the API key on disk for future use because I didn't want it in the GitHub repo anyway. For the Google Cloud Platform components, everything was working. The Google Sheets document was being updated. One thing I noticed is that my JSON API key didn't begin with 'rpidata-", but rather 'main-' which seemed strange considering I named the project rpidata. Nonetheless, the API key worked properly. 
 
+
 # Lab 8
 
 Part A of Lab 8 went smoothly. The figures took a while to appear sometimes, since they were being displayed through SSH and Xming. I've used matplotlib in the past so much of the package's functionality was familiar to me. For part B, I realized that I needed more data from last weeks lab. So I reran the scripts from the end of Lab 7 for about 2.5 hours before terminating them. This provided me with more than enough data for the figures in Lab 8 part B. 
 
+
 # Lab 9
 
 I successfully generated the intrusion detection uml file using pyang and I generated the figure using PlantUML. I was able to display the figure using both gimp and pinta.  For part B, I believe everything worked properly. However, I did get a lot of warning messages in the console which said 'Depreciated in NumPy 1.20'. Perhaps I installed too new of a version of one of the components.  
+
+
+# Lab 10
+
+This week I completed the final lab, lab 10. The hashing portion was pretty intuitive. Next, it was really cool to be able to build my own blockchain. Additionally, everything went smoothly with the seconds half of the lab. I made the required edits in the .js files and was able to run the publish and receive scripts in coordination with each other. Unfortunately, I don't have a breadboard so I couldn't integrate any sensor data. 
